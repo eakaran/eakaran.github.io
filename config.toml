@@ -1,0 +1,66 @@
+baseURL = "eakaran.github.io/"
+languageCode = "en-us"
+title = "Elizabeth Karan"
+theme = "soho"
+
+[params]
+title = "Elizabeth Karan"
+description = "Evolutionary Biologist"
+# gravatar = "soho@example.com"
+images = ["images/profile.png"]
+profilePicture = "images/profile.png"
+#copyright = "Elizabeth Karan"
+#license = "CC BY-SA 4.0"
+#licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+mainSections = ["post"]
+
+## Set custom theme color.
+themeColor = "#5190ED"
+
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/elizabeth-karan-678119127"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/eakaran"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/lizakaran"
+
+[taxonomies]
+  series = "series"
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+  name = "CV"
+  weight = 200
+  identifier = "CV"
+  url = "/CV/"
+
+  [[menu.main]]
+  name = "Research"
+  identifier = "research"
+  weight = 10
+  url = "/research/"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
