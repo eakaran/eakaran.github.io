@@ -1,4 +1,5 @@
 baseURL = "eakaran.github.io/"
+relativeURLs = true
 languageCode = "en-us"
 title = "Elizabeth Karan"
 theme = "soho"
