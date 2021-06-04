@@ -1,4 +1,4 @@
-baseURL = "eakaran.github.io/"
+baseURL = "https://eakaran.github.io/"
 relativeURLs = true
 languageCode = "en-us"
 title = "Elizabeth Karan"
