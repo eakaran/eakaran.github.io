@@ -26,6 +26,9 @@ author = "Elizabeth Karan"
 
 **PUBLICATIONS**
 
+DK Wainwright, **EA Karan**, DC Collar. Evolutionary patterns of scale morphology in
+damselfishes (Pomacentridae). Biological Journal of the Linnean Society. 02 December 2021.
+
 ME Alfaro, **EA Karan**, ST Schwartz, AJ Shultz. The Evolution of Color Pattern in Butterflyfishes
 (Chaetodontidae). Integrative and Comparative Biology. 11 July 2019.
 
